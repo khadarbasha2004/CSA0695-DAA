@@ -46,7 +46,7 @@ void printArray(int arr[], int size) {
   printf("\n");
 }
 int main() {
-	printf("K.L.V Jayaram,Reg.No:192210314\n");
+	printf("Khadarbasha, Reg.No - 192210705\n");
   int arr[] = {6, 5, 12, 10, 9, 1};
   int size = sizeof(arr) / sizeof(arr[0]);
   mergeSort(arr, 0, size - 1);
