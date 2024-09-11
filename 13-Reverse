@@ -4,7 +4,7 @@ int main()
 {
 	int i,j,len;
 	char c,str[100] = "string";
-	printf("K.L.V Jayaram, Reg.No: 192210314");
+	printf("Khadarbasha, Reg.No - 192210705\n");
 	printf("\nOriginal String: %s\n", str);
 	len=strlen(str);
 	for(i = 0, j = len - 1; i <= j; i++, j--){
