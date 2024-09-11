@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<string.h>
 int main(){
+printf("Khadarbasha, Reg.No - 192210705\n");
 	char s1[100],s2[100],i,k=0;
 	printf("Enter the String:");
 	gets(s1);
