@@ -2,7 +2,7 @@
 #include<conio.h>
 int main(){
 	int i,n,fact=1;
-	printf("K.L.V Jayaram, Reg.No - 192210314");
+	printf("Khadarbasha, Reg.No - 192210705\n");
 	printf("\nEnter the Number:");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++){
