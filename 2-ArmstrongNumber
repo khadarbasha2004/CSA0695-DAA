@@ -3,7 +3,7 @@
 #include<math.h>
 int main(){
 	int n,i=0,c,sum=0,rem;
-	printf("K.L.V Jayaram, Reg.No - 192210314");
+	printf("Khadarbasha, Reg.No - 192210705");
 	printf("\nEnter the Number:");
 	scanf("%d",&n);
 	c=n;
