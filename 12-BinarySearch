@@ -12,7 +12,7 @@ int BS(int a[], int x, int low, int high) {
 }
 int main(){
 	int n,a[100],x,res,i;
-	printf("K.L.V Jayaram, Reg.No: 192210314");
+	printf("Khadarbasha, Reg.No - 192210705\n");
 	printf("\nEnter the Number:");
 	scanf("%d",&n);
 	for(i=0;i<n;i++){
