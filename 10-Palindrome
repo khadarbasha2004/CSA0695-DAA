@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int main() {
+printf("Khadarbasha, Reg.No - 192210705\n");
     char s1[20];
     int i,l,flag=0;
     printf("Enter a string: ");
